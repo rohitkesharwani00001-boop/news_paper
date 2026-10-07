@@ -1,2 +1,2 @@
-# news_paper
+# Resume
 This is my first project in HTML.
